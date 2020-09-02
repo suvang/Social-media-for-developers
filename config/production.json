@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://suvang123:suvang123@devconnector.eq5eu.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "91a6b0ceb7e219e7519d",
+  "githubSecret": "f43a31050a0fe934ebd66329667963b40c7be036"
+}
